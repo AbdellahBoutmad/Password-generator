@@ -18,4 +18,4 @@ A simple PHP package for generating random passwords with customizable options. 
 You can easily install the package via Composer. Run the following command in your terminal:
 
 ```bash
-composer require boutmad/random-password-generator
+composer require boutmad/Password-generator

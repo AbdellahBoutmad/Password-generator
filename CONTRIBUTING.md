@@ -18,3 +18,8 @@ If you find a bug or have a feature request, please [open an issue](https://gith
 
    ```bash
    git clone https://github.com/abdellahboutmad/random-password-generator.git
+
+3. Create your feature branch (`git checkout -b feature/YourFeature`).
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a pull request.

@@ -40,13 +40,3 @@ You can customize the password generation by providing different parameters:
 
 - **Length**: Specify the length of the password (e.g., 8, 12, 16).
 - **Special Characters**: Set to `true` or `false` to include or exclude special characters.
-
-## 📦 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or features, please fork the repository and submit a pull request. Make sure to follow the code style and write tests for your changes.
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.

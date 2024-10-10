@@ -31,7 +31,7 @@ echo "Generated Password: " . $passwordGenerator->generatePassword() . "\n";
 // Generate multiple passwords
 $passwords = $passwordGenerator->generateMultiplePasswords(5);
 echo "Generated Passwords: \n";
-print_r($passwords);
+print_r($passwords);```
 ## 📝 Configuration Options
 
 You can customize the password generation by providing different parameters:

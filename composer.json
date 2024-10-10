@@ -1,5 +1,5 @@
 {
-    "name": "boutmad/random-password-generator",
+    "name": "boutmad/Password-generator",
     "description": "A package for generating random passwords",
     "type": "library",
     "autoload": {

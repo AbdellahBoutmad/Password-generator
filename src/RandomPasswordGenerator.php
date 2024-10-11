@@ -1,6 +1,6 @@
 <?php
 
-namespace RandomPasswordGenerator;
+namespace boutmad\randompassword;
 
 class RandomPasswordGenerator
 {

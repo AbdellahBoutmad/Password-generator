@@ -4,11 +4,10 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
-     "autoload": {
+    "autoload": {
         "psr-4": {
             "boutmad\\randompassword\\": "src/"
-        },
-       
+        }
     },
     "require": {}
 }

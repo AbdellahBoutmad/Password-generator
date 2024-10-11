@@ -6,16 +6,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "boutmad\\randompassword\\": "src/"
+            "Boutmad\\RandomPassword\\": "src/"
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/yourusername/randompassword"
-        }
-    ],
-    "require": {
-        "boutmad/randompassword": "*"
     }
 }

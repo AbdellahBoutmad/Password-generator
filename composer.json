@@ -9,5 +9,13 @@
             "boutmad\\randompassword\\": "src/"
         }
     },
-    "require": {}
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yourusername/randompassword"
+        }
+    ],
+    "require": {
+        "boutmad/randompassword": "*"
+    }
 }

@@ -3,10 +3,10 @@
     "description": "A package for generating random passwords",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Boutmad\\RandomPassword\\": "src/"
         }
-    }
+    },
+    "require": {}
 }

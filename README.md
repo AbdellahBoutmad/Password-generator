@@ -41,10 +41,22 @@ You can customize the password generation by providing different parameters:
 - **Length**: Specify the length of the password (e.g., 8, 12, 16).
 - **Special Characters**: Set to `true` or `false` to include or exclude special characters.
 
-Installation
+## 🛠️ Installation
+
 To install the boutmad/randompassword package using Composer, follow these steps:
 
-Step 1: Add the Package to Your Project
-Run the following Composer command to install the package in your project:
+- Run the following Composer command to install the package in your project:
 
+```bash
 composer require boutmad/randompassword
+```
+
+
+**Note**: If you encounter issues with stability, make sure your `composer.json` allows for `dev` versions by adding this to your `composer.json`:
+
+```json
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+```

@@ -40,3 +40,11 @@ You can customize the password generation by providing different parameters:
 
 - **Length**: Specify the length of the password (e.g., 8, 12, 16).
 - **Special Characters**: Set to `true` or `false` to include or exclude special characters.
+
+Installation
+To install the boutmad/randompassword package using Composer, follow these steps:
+
+Step 1: Add the Package to Your Project
+Run the following Composer command to install the package in your project:
+
+composer require boutmad/randompassword
